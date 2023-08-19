@@ -1,1 +1,5 @@
-# w241_politics_dating
+# The Politics of Romance: Exploring the Influence of Political Identification on Dating Profile Success
+* Danny Collins, Greg Rosen, Javier Rondon, & Martin Lim
+
+Does identifying as a conservative vs. a liberal vs. not identifying lead to a difference in the number of matches and responses on a dating profile? Today’s political climate is running hot with the increasing polarity between conservatives and liberals. This study set out to answer whether this political divide really does carry itself into dating decision-making by observing the effect of adding a political leaning in a profile’s biography on the profile’s match rate. Similar young adult, Caucasian dating profiles were created on the Hinge and Tinder dating application platforms, and the political leaning of their profile bios were varied between no-leaning, liberal-leaning, and conservative-leaning personal statements over a period of four weeks. The profiles were exposed to users in the city of Houston, Texas. The experiment found that women on Hinge experience a -23 to -10 point lower nominal match rate by including a conservative-leaning statement in their profile bio than if they had not included it. The effects of liberal treatments, or conservative treatments on other genders and platforms, were inconclusive.
+
